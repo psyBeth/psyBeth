@@ -8,7 +8,7 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, JavaScript💻
+-  **Languages :** Python, JavaScript💻 (also HTML and CSS ofc)
 -  **Hobbies :** Articles📕, Language Learning & Books 📖
 -  **Fact :** It's never late to get started 🎯:heart:
 
