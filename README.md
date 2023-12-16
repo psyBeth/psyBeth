@@ -7,13 +7,14 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Front-End Development :zap:	
 -  **Languages :** Python, JavaScript💻 (also HTML and CSS ofc)
+-  **Currently working on:** React 🗯️
 -  **Hobbies :** Articles📕, Language Learning & Books 📖
 -  **Fact :** It's never late to get started 🎯:heart:
 
 
-Last Edited on: 12/10/2023
+Last Edited on: 16/12/2023
 
 <!--
 **psyBeth/psyBeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
