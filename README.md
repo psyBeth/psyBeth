@@ -9,6 +9,7 @@
 
 -  **Learning :** Front-End Development :zap:	
 -  **Languages :** Python, JavaScript💻 (also HTML and CSS ofc)
+-  **Supporting Skills:** BootStrap, SCSS
 -  **Currently working on:** React 🗯️
 -  **Hobbies :** Articles📕, Language Learning & Books 📖
 -  **Fact :** It's never late to get started 🎯:heart:
