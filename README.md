@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **betulkoru06@gmail.com**
 
-- ⚡ Fun fact **I am also interested in human psychology and neurosciences.**
+- ⚡ Fun fact: **I am also interested in human psychology and neurosciences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
