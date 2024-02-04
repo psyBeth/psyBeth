@@ -3,7 +3,6 @@
 
 <h3 align="center">Passionate Frontend Developer, currently working on improving myself to be a Fullstack Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psybeth" alt="psybeth" /></a> </p>
 
 - 🌱 I’m currently learning **React and Node.js**
 
