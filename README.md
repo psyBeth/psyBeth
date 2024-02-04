@@ -1,9 +1,6 @@
 <h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a> I'm Betul! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
-<p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 
-<h1 align="center">Hi 👋, I'm Betul Koru.</h1>
 <h3 align="center">Passionate Frontend Developer, currently working on improving myself to be a Fullstack Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psybeth" alt="psybeth" /></a> </p>
