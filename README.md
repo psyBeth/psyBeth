@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Frontend Developer, currently working on improving myself to be a Fullstack Developer.</h3>
 
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **SQL and Node.js**
 
 - 💬 Ask me about **all the personal mini projects!**
 
