@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SQL and Node.js**
 
-- 💬 Ask me about **all the personal mini projects!**
+- 💬 Ask me about **all the personal projects!**
 
 - 📫 Reach me: **betulkoru06@gmail.com**
 
