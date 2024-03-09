@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/betul-koru-2303192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betul koru" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">🚀Technical Skills</h2>
+<h2 align="left">🚀 Toolbox 📦</h2>
 <div align="center">
 <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"  alt="Reactjs"  />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"  />
