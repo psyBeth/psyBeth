@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a> I'm Betul! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
 
-<h3 align="center">Passionate Frontend Developer, currently working on improving myself to be a Fullstack Developer.</h3>
+<h3 align="center">Passionate Full-stack Developer.</h3>
 
 
 - 🌱 I’m currently learning **MongoDB and Mongoose**
@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"  />
+<img src="https://camo.githubusercontent.com/57336fa2867efa094d65d48d3122413cf1aca60e77c77ebad92705a98d29f249/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6f6e676f444226636f6c6f723d343741323438266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="mongodb"  />
+<img src="https://camo.githubusercontent.com/526fab277c42e1279d7d5e9b8aa9e959c07e7e58acdf64878127eff498863366/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6f6e676f6f736526636f6c6f723d383830303030266c6f676f3d4d6f6e676f6f7365266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="mongoose" />
 </br>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  alt="Python"  />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL"  />
