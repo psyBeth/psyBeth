@@ -61,7 +61,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psybeth&" alt="psybeth" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psybeth&show_icons=true&locale=en&layout=compact" alt="psybeth" /></p>
-[![LeetCode Badge](https://leetcard.jacoblin.cool/BetulKoru?theme=unicorn)](https://leetcode.com/BetulKoru)
+[![LeetCode Badge](images/leetbadge.png)](https://leetcode.com/BetulKoru)
 </div>
 
 
