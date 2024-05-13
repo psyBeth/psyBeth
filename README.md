@@ -61,8 +61,8 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psybeth&" alt="psybeth" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psybeth&show_icons=true&locale=en&layout=compact" alt="psybeth" /></p>
-[![LeetCode Badge](images/leetbadge.png)](https://leetcode.com/BetulKoru)
 </div>
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/BetulKoru)](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)
 
 
 
