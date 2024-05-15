@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Full-stack Developer.</h3>
 
 
-- 🌱 I’m currently learning **Docker** and **EJS (Templates)**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **all the personal projects!**
 
