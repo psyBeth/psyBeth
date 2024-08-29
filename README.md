@@ -2,7 +2,6 @@
 
 
 <h3 align="center">Passionate Full-stack Developer.</h3> 
-![](https://komarev.com/ghpvc/?username=psyBeth)
 
 - 🌱 I’m currently learning **Liquid**.
 
@@ -11,6 +10,8 @@
 - 📫 Reach me: **betulkoru06@gmail.com**
 
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
+
+![](https://komarev.com/ghpvc/?username=psyBeth&color=blueviolet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
