@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a> I'm Betul! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
 
-<h3 align="center">Passionate Full-stack Developer.</h3> ![](https://komarev.com/ghpvc/?username=psyBeth)
-
+<h3 align="center">Passionate Full-stack Developer.</h3> 
+![](https://komarev.com/ghpvc/?username=psyBeth)
 
 - 🌱 I’m currently learning **Liquid**.
 
