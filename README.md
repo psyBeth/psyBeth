@@ -46,21 +46,21 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"   alt="Nodejs"  />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"  />
+<img src="https://img.shields.io/badge/liquid-1E90FF?style=for-the-badge" alt="liquid" />
 </br>
 <img src="https://camo.githubusercontent.com/1607d954633471415b6490bfb6f92e50983acfe76bcb69f9f994703f62788e15/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4178696f7326636f6c6f723d354132394534266c6f676f3d4178696f73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="axios" />
 <img src="https://img.shields.io/badge/Dotenv-FFFFFF?style=for-the-badge&logo=dotenv" alt="dotenv" />
 <img src="https://img.shields.io/badge/Styled_Components-FFC0CB?style=for-the-badge&logo=styledcomponents" alt="styledcomp" />
 <img src="https://img.shields.io/badge/Vite-D1C4E9?style=for-the-badge&logo=vite" alt="vite" />
 <img src="https://img.shields.io/badge/Nodemon-808080?style=for-the-badge&logo=nodemon" alt="nodemon" />
+<img src="https://img.shields.io/badge/shopify-F0FFF0?style=for-the-badge&logo=shopify" alt="shopify" />
 </br>
 <img src="https://img.shields.io/badge/npm-F44336?style=for-the-badge&logo=npm" alt="npm" />
 <img src="https://img.shields.io/badge/yarn-87AFC7?style=for-the-badge&logo=yarn" alt="yarn" />
 <img src="https://img.shields.io/badge/sqlite-151B54?style=for-the-badge&logo=sqlite" alt="sqlite" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"  />
 <img src="https://img.shields.io/badge/github-0000FF?style=for-the-badge&logo=github" alt="github" />
-</br>
-<img src="https://img.shields.io/badge/shopify-F0FFF0?style=for-the-badge&logo=shopify" alt="shopify" />
-<img src="https://img.shields.io/badge/liquid-1E90FF?style=for-the-badge" alt="liquid" />
+
 </div>
 
 <div align="center">
