@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/81465-catwaving"><img src="https://cdn3.emoji.gg/emojis/81465-catwaving.gif" width="64px" height="64px" alt="CatWaving"></a> I'm Betul! <a href="https://emoji.gg/emoji/1188-pixel-cat-typing"><img src="https://cdn3.emoji.gg/emojis/1188-pixel-cat-typing.gif" width="64px" height="64px" alt="pixel_cat_typing"></a> </h1>
+<h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/80386-catwave"><img src="https://cdn3.emoji.gg/emojis/80386-catwave.png" width="64px" height="64px" alt="CatWave"></a> I'm Betul! <a href="https://emoji.gg/emoji/1188-pixel-cat-typing"><img src="https://cdn3.emoji.gg/emojis/1188-pixel-cat-typing.gif" width="64px" height="64px" alt="pixel_cat_typing"></a> </h1>
 
 
 <h3 align="center">Passionate Full-stack Developer. <a href="https://emoji.gg/emoji/8443-cat-work"><img src="https://cdn3.emoji.gg/emojis/8443-cat-work.png" width="32px" height="32px" alt="cat_work"></a>  </h3>
