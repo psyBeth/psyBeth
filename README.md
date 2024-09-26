@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there!  <a href="https://emoji.gg/emoji/27056-cutesy-cat5"><img src="https://cdn3.emoji.gg/emojis/27056-cutesy-cat5.png" width="64px" height="64px" alt="cutesy_cat5"></a> I'm Betul! <a href="https://emoji.gg/emoji/8443-cat-work"><img src="https://cdn3.emoji.gg/emojis/8443-cat-work.png" width="64px" height="64px" alt="cat_work"></a> </h1>
 
 
-<h3 align="center">Passionate Full-stack Developer.</h3>
+<h3 align="center">Passionate Full-stack Developer. <a href="https://emoji.gg/emoji/1188-pixel-cat-typing"><img src="https://cdn3.emoji.gg/emojis/1188-pixel-cat-typing.gif" width="64px" height="64px" alt="pixel_cat_typing"></a> </h3>
 
 ![](https://komarev.com/ghpvc/?username=psyBeth&color=blueviolet)
 
