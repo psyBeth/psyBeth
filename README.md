@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
