@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=psyBeth&color=blueviolet)
 
-- 🌱 I’m currently learning **Cyber Security Essentials**.
+- 🌱 I’m currently learning **Cyber Security**.
 
 - 💬 Ask me about **all the personal projects!**
 
