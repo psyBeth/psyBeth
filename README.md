@@ -69,7 +69,7 @@
 <div align="center">
 </br>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psybeth&" alt="psybeth" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psybeth&" alt="psybeth"/>
 </p>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/BetulKoru?theme=dark&font=Nunito&ext=heatmap" /> 
 
