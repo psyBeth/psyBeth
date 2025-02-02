@@ -69,7 +69,7 @@
 <div align="center">
 </br>
 <p>
-  <img src="https://streak-stats.demolab.com?user=psyBeth&theme=github-dark&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=psyBeth&theme=github-dark" alt="GitHub Streak" /></a>
 </p>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/BetulKoru?theme=dark&font=Nunito&ext=heatmap" /> 
 
