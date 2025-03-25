@@ -20,7 +20,6 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/betul-koru-2303192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betul koru" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BetulKoru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
-![TryHackMe Badge](https://tryhackme.com/api/badges/4161445.svg)
 </div>
 
 <br>
@@ -73,6 +72,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=psyBeth&theme=github-dark" alt="GitHub Streak" /></a>
 </p>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/BetulKoru?theme=dark&font=Nunito&ext=heatmap" /> 
+  ![TryHackMe Badge](https://tryhackme.com/api/badges/4161445.svg)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psybeth&show_icons=true&locale=en&layout=compact" alt="psybeth" />
