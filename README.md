@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/betul-koru-2303192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betul koru" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BetulKoru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4161445" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/badges/4161445.svg)
 
 </p>
 
