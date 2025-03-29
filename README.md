@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **all the personal projects!**
   
-- 🌱 I’m currently learning **Cyber Security Essentials**.
+- 🌱 I’m currently learning **Cyber Security**.
 
 - 📫 Reach me: **betulkoru06@gmail.com**.
 
