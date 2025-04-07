@@ -14,14 +14,15 @@
 
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
 
+<a href= "https://tryhackme.com/p/KiwiBeth"> <img src="https://tryhackme-badges.s3.amazonaws.com/KiwiBeth.png" alt="Your Image Badge" />
+ </a>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/betul-koru-2303192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betul koru" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BetulKoru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
-<a href= "https://tryhackme.com/p/KiwiBeth"> <img src="https://tryhackme-badges.s3.amazonaws.com/KiwiBeth.png" alt="Your Image Badge" />
- </a>
 </div>
 
 <br>
