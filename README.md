@@ -15,7 +15,7 @@
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
 
 <a href= "https://tryhackme.com/p/KiwiBeth"> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KiwiBeth.png" alt="Your Image Badge" height="90" width="360" />
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4161445" alt="Your Image Badge" height="90" width="360" />
 </a>
 
 <br>
