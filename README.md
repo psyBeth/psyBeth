@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/KiwiBeth/KiwiBeth/master/assets/thm_propic.png)][tryhackme]
+[![KiwiBeth's tryhackme stats](https://raw.githubusercontent.com/KiwiBeth/KiwiBeth/master/assets/thm_propic.png)][tryhackme]
 
 <br>
 
