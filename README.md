@@ -13,8 +13,9 @@
 - 📫 Reach me: **betulkoru06@gmail.com**.
 
 - ⚡ Fun fact: **I am also interested in human psychology and neurosciences. (☝🏻🤓 never escaping the nerd allegations)**
+  
 <a href="https://tryhackme.com/p/KiwiBeth">
-<img src="https://tryhackme-badges.s3.amazonaws.com/KiwiBeth.png" alt="KiwiBeth on THM" width="300" height="90"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KiwiBeth.png" alt="KiwiBeth on THM" width="300" height="90"/>
 </a>
 
 <br>
